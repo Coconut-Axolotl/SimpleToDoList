@@ -4,7 +4,7 @@
 
 Submitted by: **Jordez Fernandez**
 
-Time spent: **Around 12** hours spent in total
+Time spent: **Around 8** hours spent in total
 
 ## User Stories
 
