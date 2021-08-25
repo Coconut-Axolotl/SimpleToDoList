@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Simple TO-DO List*
 
 **SimpleToDoList** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Jordez Fernandez**
 
-Time spent: **Around 12** hours spent in total
+Time spent: **Around 8** hours spent in total
 
 ## User Stories
 
@@ -26,17 +26,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Coconut-Axolotl/SimpleToDoList/blob/master/Codepath%20application%20Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Nothing of importance to note, other than this being my first project. Albeit a tad rusty.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
